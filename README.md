@@ -13,7 +13,10 @@
 
 ## Deployed Application
 
-[Quokka-Marketplace](https://quokka-marketplace-devdan13.herokuapp.com/)
+![Quokka-homepage](public\assets\img\quokka-homepage.png)
+
+
+[Quokka-Marketplace Heroku Deploy Link](https://quokka-marketplace-devdan13.herokuapp.com/)
 
 ## Description
 
